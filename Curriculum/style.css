@@ -1,0 +1,16 @@
+table{
+    width: 500px;
+    border-collapse: collapse;
+    border: 4px double goldenrod;
+}
+td,th{
+    border: 1px solid black;
+    text-align:center;
+    
+}
+th{
+    text-align: center;
+}
+tr{
+    padding;
+}
